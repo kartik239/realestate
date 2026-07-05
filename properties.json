@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "SR001",
+    "slug": "sr001-emerald-hills-villa",
+    "title": "Emerald Hills Villa",
+    "type": "Luxury Villa",
+    "purpose": "Sale",
+    "price": 18500000,
+    "priceLabel": "\u20b918,500,000",
+    "location": "Shirwal Main Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 1500,
+    "areaUnit": "sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 1,
+    "status": "New Launch",
+    "featured": true,
+    "description": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for families seeking luxury and privacy.",
+    "amenities": [
+      "Modular Kitchen",
+      "Gated Community",
+      "24x7 Security",
+      "Clubhouse",
+      "Swimming Pool",
+      "Landscaped Garden"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "2.8 km",
+      "highway": "3 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Emerald Hills Villa in Shirwal | SR001 | Shirwal Realty",
+      "metaDescription": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for ",
+      "ogImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR002",
+    "slug": "sr002-nira-bank-farmhouse",
+    "title": "Nira Bank Farmhouse",
+    "type": "Farm House",
+    "purpose": "Sale",
+    "price": 7800000,
+    "priceLabel": "\u20b97,800,000",
+    "location": "Kanhur Mesai",
+    "city": "Shirwal, Maharashtra",
+    "area": 4000,
+    "areaUnit": "sq.ft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "parking": 3,
+    "status": "Under Construction",
+    "featured": true,
+    "description": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle near Shirwal.",
+    "amenities": [
+      "Bore-well Water Supply",
+      "Landscaped Garden",
+      "Clubhouse",
+      "Servant Quarters",
+      "Gymnasium",
+      "Covered Parking"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "1.5 km",
+      "highway": "3 km",
+      "railway": "2 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Nira Bank Farmhouse in Shirwal | SR002 | Shirwal Realty",
+      "metaDescription": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle n",
+      "ogImage": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR003",
+    "slug": "sr003-nira-vista-plot",
+    "title": "Nira Vista Plot",
+    "type": "Residential Plot",
+    "purpose": "Sale",
+    "price": 6500000,
+    "priceLabel": "\u20b96,500,000",
+    "location": "Nira River Belt",
+    "city": "Shirwal, Maharashtra",
+    "area": 5000,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "status": "Ready",
+    "featured": true,
+    "description": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing part of Shirwal.",
+    "amenities": [
+      "Children's Play Area",
+      "Solar Water Heating",
+      "Clubhouse",
+      "Community Hall",
+      "Landscaped Garden",
+      "Swimming Pool"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524230572899-a752b3835840?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "1 km",
+      "highway": "2 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Nira Vista Plot in Shirwal | SR003 | Shirwal Realty",
+      "metaDescription": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing par",
+      "ogImage": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR004",
+    "slug": "sr004-market-square-shop",
+    "title": "Market Square Shop",
+    "type": "Commercial Shop",
+    "purpose": "Sale",
+    "price": 1800000,
+    "priceLabel": "\u20b91,800,000",
+    "location": "Shirwal MIDC Area",
+    "city": "Shirwal, Maharashtra",
+    "area": 1800,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 4,
+    "status": "New Launch",
+    "featured": true,
+    "description": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing business corridor.",
+    "amenities": [
+      "Children's Play Area",
+      "Covered Parking",
+      "Vastu Compliant",
+      "Servant Quarters",
+      "Rainwater Harvesting",
+      "Jogging Track"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "0.5 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Market Square Shop in Shirwal | SR004 | Shirwal Realty",
+      "metaDescription": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing ",
+      "ogImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR005",
+    "slug": "sr005-skyline-residency-apartment",
+    "title": "Skyline Residency Apartment",
+    "type": "Apartment",
+    "purpose": "Rent",
+    "price": 20800,
+    "priceLabel": "\u20b920,800 /month",
+    "location": "Shirwal MIDC Area",
+    "city": "Shirwal, Maharashtra",
+    "area": 1800,
+    "areaUnit": "sq.ft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "parking": 2,
+    "status": "New Launch",
+    "featured": true,
+    "description": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key locations.",
+    "amenities": [
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Community Hall",
+      "Children's Play Area",
+      "Gymnasium",
+      "CCTV Surveillance"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "0.8 km",
+      "hospitals": "1 km",
+      "highway": "2 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Skyline Residency Apartment in Shirwal | SR005 | Shirwal Realty",
+      "metaDescription": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key ",
+      "ogImage": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR006",
+    "slug": "sr006-corporate-tower-office",
+    "title": "Corporate Tower Office",
+    "type": "Office Space",
+    "purpose": "Rent",
+    "price": 11200,
+    "priceLabel": "\u20b911,200 /month",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 300,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "parking": 1,
+    "status": "Under Construction",
+    "featured": true,
+    "description": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal region.",
+    "amenities": [
+      "Modular Kitchen",
+      "Clubhouse",
+      "Servant Quarters",
+      "Jogging Track",
+      "Vastu Compliant",
+      "Rainwater Harvesting"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "1.5 km",
+      "highway": "2 km",
+      "railway": "6 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Corporate Tower Office in Shirwal | SR006 | Shirwal Realty",
+      "metaDescription": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal",
+      "ogImage": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR007",
+    "slug": "sr007-heritage-bungalow",
+    "title": "Heritage Bungalow",
+    "type": "Bungalow",
+    "purpose": "Rent",
+    "price": 50000,
+    "priceLabel": "\u20b950,000 /month",
+    "location": "Bhor Highway Junction",
+    "city": "Shirwal, Maharashtra",
+    "area": 1500,
+    "areaUnit": "sq.ft",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "parking": 2,
+    "status": "Ready to Move",
+    "featured": true,
+    "description": "A stately independent bungalow combining classic architecture with modern comforts, set on a generous plot in Shirwal.",
+    "amenities": [
+      "Solar Water Heating",
+      "Amphitheatre",
+      "Swimming Pool",
+      "Power Backup",
+      "CCTV Surveillance",
+      "Servant Quarters"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "4 km",
+      "highway": "3 km",
+      "railway": "2 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Heritage Bungalow in Shirwal | SR007 | Shirwal Realty",
+      "metaDescription": "A stately independent bungalow combining classic architecture with modern comforts, set on a generous plot in Shirwal.",
+      "ogImage": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR008",
+    "slug": "sr008-fertile-belt-farmland",
+    "title": "Fertile Belt Farmland",
+    "type": "Agricultural Land",
+    "purpose": "Sale",
+    "price": 1500000,
+    "priceLabel": "\u20b91,500,000",
+    "location": "Shirwal MIDC Area",
+    "city": "Shirwal, Maharashtra",
+    "area": 0.69,
+    "areaUnit": "acres",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "status": "Ready",
+    "featured": true,
+    "description": "Fertile agricultural land with reliable water access, well suited for farming or long-term land investment near Shirwal.",
+    "amenities": [
+      "Wide Internal Roads",
+      "Clubhouse",
+      "Jogging Track",
+      "Power Backup",
+      "Amphitheatre",
+      "Bore-well Water Supply"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "0.8 km",
+      "hospitals": "2.8 km",
+      "highway": "2 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Fertile Belt Farmland in Shirwal | SR008 | Shirwal Realty",
+      "metaDescription": "Fertile agricultural land with reliable water access, well suited for farming or long-term land investment near Shirwal.",
+      "ogImage": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR009",
+    "slug": "sr009-maple-street-house",
+    "title": "Maple Street House",
+    "type": "Independent House",
+    "purpose": "Sale",
+    "price": 9800000,
+    "priceLabel": "\u20b99,800,000",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 3200,
+    "areaUnit": "sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "parking": 2,
+    "status": "Ready to Move",
+    "featured": false,
+    "description": "A comfortable independent house with a private yard, ideal for families looking for space and community living in Shirwal.",
+    "amenities": [
+      "Children's Play Area",
+      "Clubhouse",
+      "Bore-well Water Supply",
+      "24x7 Security",
+      "Community Hall",
+      "Solar Water Heating"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "1.5 km",
+      "highway": "0.5 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Maple Street House in Shirwal | SR009 | Shirwal Realty",
+      "metaDescription": "A comfortable independent house with a private yard, ideal for families looking for space and community living in Shirwa",
+      "ogImage": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR010",
+    "slug": "sr010-emerald-hills-villa",
+    "title": "Emerald Hills Villa",
+    "type": "Luxury Villa",
+    "purpose": "Sale",
+    "price": 18500000,
+    "priceLabel": "\u20b918,500,000",
+    "location": "Shirwal Main Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 1200,
+    "areaUnit": "sq.ft",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "parking": 2,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for families seeking luxury and privacy.",
+    "amenities": [
+      "Gymnasium",
+      "Community Hall",
+      "Wide Internal Roads",
+      "Children's Play Area",
+      "Jogging Track",
+      "Servant Quarters"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "1.5 km",
+      "highway": "0.5 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Emerald Hills Villa in Shirwal | SR010 | Shirwal Realty",
+      "metaDescription": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for ",
+      "ogImage": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR011",
+    "slug": "sr011-sunset-valley-farmhouse",
+    "title": "Sunset Valley Farmhouse",
+    "type": "Farm House",
+    "purpose": "Rent",
+    "price": 39200,
+    "priceLabel": "\u20b939,200 /month",
+    "location": "Nira-Bhor Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 2200,
+    "areaUnit": "sq.ft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "parking": 1,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle near Shirwal.",
+    "amenities": [
+      "Landscaped Garden",
+      "Children's Play Area",
+      "Swimming Pool",
+      "Jogging Track",
+      "Vastu Compliant",
+      "Clubhouse"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "3 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Sunset Valley Farmhouse in Shirwal | SR011 | Shirwal Realty",
+      "metaDescription": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle n",
+      "ogImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR012",
+    "slug": "sr012-shirwal-green-plots",
+    "title": "Shirwal Green Plots",
+    "type": "Residential Plot",
+    "purpose": "Sale",
+    "price": 9500000,
+    "priceLabel": "\u20b99,500,000",
+    "location": "Panshet View, Shirwal",
+    "city": "Shirwal, Maharashtra",
+    "area": 1500,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "status": "Ready",
+    "featured": false,
+    "description": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing part of Shirwal.",
+    "amenities": [
+      "Children's Play Area",
+      "Covered Parking",
+      "Modular Kitchen",
+      "Wide Internal Roads",
+      "Amphitheatre",
+      "Landscaped Garden"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "0.8 km",
+      "hospitals": "1.5 km",
+      "highway": "1 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Shirwal Green Plots in Shirwal | SR012 | Shirwal Realty",
+      "metaDescription": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing par",
+      "ogImage": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR013",
+    "slug": "sr013-shirwal-trade-arcade-shop",
+    "title": "Shirwal Trade Arcade Shop",
+    "type": "Commercial Shop",
+    "purpose": "Sale",
+    "price": 9200000,
+    "priceLabel": "\u20b99,200,000",
+    "location": "Nira-Bhor Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 900,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 2,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing business corridor.",
+    "amenities": [
+      "Swimming Pool",
+      "Solar Water Heating",
+      "Community Hall",
+      "Gated Community",
+      "Amphitheatre",
+      "CCTV Surveillance"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524230572899-a752b3835840?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "1.5 km",
+      "highway": "3 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Shirwal Trade Arcade Shop in Shirwal | SR013 | Shirwal Realty",
+      "metaDescription": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing ",
+      "ogImage": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR014",
+    "slug": "sr014-skyline-residency-apartment",
+    "title": "Skyline Residency Apartment",
+    "type": "Apartment",
+    "purpose": "Sale",
+    "price": 18500000,
+    "priceLabel": "\u20b918,500,000",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 4000,
+    "areaUnit": "sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 1,
+    "status": "New Launch",
+    "featured": false,
+    "description": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key locations.",
+    "amenities": [
+      "Gymnasium",
+      "Children's Play Area",
+      "Gated Community",
+      "Clubhouse",
+      "Modular Kitchen",
+      "Bore-well Water Supply"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "4 km",
+      "highway": "1 km",
+      "railway": "6 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Skyline Residency Apartment in Shirwal | SR014 | Shirwal Realty",
+      "metaDescription": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key ",
+      "ogImage": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR015",
+    "slug": "sr015-corporate-tower-office",
+    "title": "Corporate Tower Office",
+    "type": "Office Space",
+    "purpose": "Rent",
+    "price": 16800,
+    "priceLabel": "\u20b916,800 /month",
+    "location": "Bhor Highway Junction",
+    "city": "Shirwal, Maharashtra",
+    "area": 450,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 2,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal region.",
+    "amenities": [
+      "Community Hall",
+      "Gymnasium",
+      "Landscaped Garden",
+      "Clubhouse",
+      "Swimming Pool",
+      "Rainwater Harvesting"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "0.5 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Corporate Tower Office in Shirwal | SR015 | Shirwal Realty",
+      "metaDescription": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal",
+      "ogImage": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR016",
+    "slug": "sr016-royal-elms-bungalow",
+    "title": "Royal Elms Bungalow",
+    "type": "Bungalow",
+    "purpose": "Sale",
+    "price": 18500000,
+    "priceLabel": "\u20b918,500,000",
+    "location": "Bhor Highway Junction",
+    "city": "Shirwal, Maharashtra",
+    "area": 2200,
+    "areaUnit": "sq.ft",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "parking": 1,
+    "status": "New Launch",
+    "featured": false,
+    "description": "A stately independent bungalow combining classic architecture with modern comforts, set on a generous plot in Shirwal.",
+    "amenities": [
+      "Landscaped Garden",
+      "Power Backup",
+      "Rainwater Harvesting",
+      "Community Hall",
+      "Amphitheatre",
+      "CCTV Surveillance"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "2 km",
+      "railway": "4 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Royal Elms Bungalow in Shirwal | SR016 | Shirwal Realty",
+      "metaDescription": "A stately independent bungalow combining classic architecture with modern comforts, set on a generous plot in Shirwal.",
+      "ogImage": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR017",
+    "slug": "sr017-sahyadri-foothills-farmland",
+    "title": "Sahyadri Foothills Farmland",
+    "type": "Agricultural Land",
+    "purpose": "Sale",
+    "price": 3200000,
+    "priceLabel": "\u20b93,200,000",
+    "location": "Wai Road, Shirwal",
+    "city": "Shirwal, Maharashtra",
+    "area": 4.59,
+    "areaUnit": "acres",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "status": "Ready",
+    "featured": false,
+    "description": "Fertile agricultural land with reliable water access, well suited for farming or long-term land investment near Shirwal.",
+    "amenities": [
+      "Modular Kitchen",
+      "Rainwater Harvesting",
+      "Gated Community",
+      "24x7 Security",
+      "Bore-well Water Supply",
+      "Servant Quarters"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "1 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Sahyadri Foothills Farmland in Shirwal | SR017 | Shirwal Realty",
+      "metaDescription": "Fertile agricultural land with reliable water access, well suited for farming or long-term land investment near Shirwal.",
+      "ogImage": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR018",
+    "slug": "sr018-station-road-house",
+    "title": "Station Road House",
+    "type": "Independent House",
+    "purpose": "Sale",
+    "price": 25000000,
+    "priceLabel": "\u20b925,000,000",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 1200,
+    "areaUnit": "sq.ft",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "parking": 1,
+    "status": "Ready to Move",
+    "featured": false,
+    "description": "A comfortable independent house with a private yard, ideal for families looking for space and community living in Shirwal.",
+    "amenities": [
+      "Modular Kitchen",
+      "Power Backup",
+      "Gated Community",
+      "Solar Water Heating",
+      "CCTV Surveillance",
+      "Vastu Compliant"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "2.8 km",
+      "highway": "1 km",
+      "railway": "2 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Station Road House in Shirwal | SR018 | Shirwal Realty",
+      "metaDescription": "A comfortable independent house with a private yard, ideal for families looking for space and community living in Shirwa",
+      "ogImage": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR019",
+    "slug": "sr019-golden-horizon-villa",
+    "title": "Golden Horizon Villa",
+    "type": "Luxury Villa",
+    "purpose": "Rent",
+    "price": 100000,
+    "priceLabel": "\u20b9100,000 /month",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 2600,
+    "areaUnit": "sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 2,
+    "status": "New Launch",
+    "featured": false,
+    "description": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for families seeking luxury and privacy.",
+    "amenities": [
+      "Covered Parking",
+      "Bore-well Water Supply",
+      "Modular Kitchen",
+      "Children's Play Area",
+      "Rainwater Harvesting",
+      "Clubhouse"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "1.2 km",
+      "hospitals": "1 km",
+      "highway": "0.5 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Golden Horizon Villa in Shirwal | SR019 | Shirwal Realty",
+      "metaDescription": "An exquisitely designed villa offering spacious living, premium finishes, and a serene setting in Shirwal \u2014 perfect for ",
+      "ogImage": "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR020",
+    "slug": "sr020-green-acres-farmhouse",
+    "title": "Green Acres Farmhouse",
+    "type": "Farm House",
+    "purpose": "Rent",
+    "price": 14000,
+    "priceLabel": "\u20b914,000 /month",
+    "location": "Wai Road, Shirwal",
+    "city": "Shirwal, Maharashtra",
+    "area": 1800,
+    "areaUnit": "sq.ft",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "parking": 2,
+    "status": "New Launch",
+    "featured": false,
+    "description": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle near Shirwal.",
+    "amenities": [
+      "Rainwater Harvesting",
+      "Clubhouse",
+      "Community Hall",
+      "CCTV Surveillance",
+      "Servant Quarters",
+      "Bore-well Water Supply"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "1.5 km",
+      "highway": "0.5 km",
+      "railway": "6 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Green Acres Farmhouse in Shirwal | SR020 | Shirwal Realty",
+      "metaDescription": "A tranquil farmhouse retreat surrounded by open greens, ideal for weekend getaways or a peaceful countryside lifestyle n",
+      "ogImage": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR021",
+    "slug": "sr021-highway-view-plot",
+    "title": "Highway View Plot",
+    "type": "Residential Plot",
+    "purpose": "Sale",
+    "price": 1500000,
+    "priceLabel": "\u20b91,500,000",
+    "location": "Kanhur Mesai",
+    "city": "Shirwal, Maharashtra",
+    "area": 1500,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "parking": 0,
+    "status": "Ready",
+    "featured": false,
+    "description": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing part of Shirwal.",
+    "amenities": [
+      "Bore-well Water Supply",
+      "Modular Kitchen",
+      "Amphitheatre",
+      "Landscaped Garden",
+      "Servant Quarters",
+      "Vastu Compliant"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "4 km",
+      "highway": "0.5 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Highway View Plot in Shirwal | SR021 | Shirwal Realty",
+      "metaDescription": "A well-located residential plot with clear title, ready for immediate construction, situated in a rapidly developing par",
+      "ogImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR022",
+    "slug": "sr022-shirwal-trade-arcade-shop",
+    "title": "Shirwal Trade Arcade Shop",
+    "type": "Commercial Shop",
+    "purpose": "Sale",
+    "price": 4200000,
+    "priceLabel": "\u20b94,200,000",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 600,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "parking": 1,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing business corridor.",
+    "amenities": [
+      "Landscaped Garden",
+      "Solar Water Heating",
+      "Amphitheatre",
+      "Gymnasium",
+      "Modular Kitchen",
+      "Covered Parking"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "3.5 km",
+      "hospitals": "2.8 km",
+      "highway": "1 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Shirwal Trade Arcade Shop in Shirwal | SR022 | Shirwal Realty",
+      "metaDescription": "A prime commercial shop with excellent footfall potential, located along a high-visibility stretch in Shirwal's growing ",
+      "ogImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR023",
+    "slug": "sr023-orchid-heights-apartment",
+    "title": "Orchid Heights Apartment",
+    "type": "Apartment",
+    "purpose": "Sale",
+    "price": 12500000,
+    "priceLabel": "\u20b912,500,000",
+    "location": "Shirwal Bypass",
+    "city": "Shirwal, Maharashtra",
+    "area": 2600,
+    "areaUnit": "sq.ft",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "parking": 3,
+    "status": "New Launch",
+    "featured": false,
+    "description": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key locations.",
+    "amenities": [
+      "Modular Kitchen",
+      "Gymnasium",
+      "Bore-well Water Supply",
+      "Vastu Compliant",
+      "Amphitheatre",
+      "Children's Play Area"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "1 km",
+      "highway": "1 km",
+      "railway": "2 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "Orchid Heights Apartment in Shirwal | SR023 | Shirwal Realty",
+      "metaDescription": "A thoughtfully planned apartment offering modern amenities, ample natural light, and convenient access to Shirwal's key ",
+      "ogImage": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  {
+    "id": "SR024",
+    "slug": "sr024-midc-executive-office",
+    "title": "MIDC Executive Office",
+    "type": "Office Space",
+    "purpose": "Sale",
+    "price": 4200000,
+    "priceLabel": "\u20b94,200,000",
+    "location": "Shirwal Station Road",
+    "city": "Shirwal, Maharashtra",
+    "area": 300,
+    "areaUnit": "sq.ft",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "parking": 4,
+    "status": "Under Construction",
+    "featured": false,
+    "description": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal region.",
+    "amenities": [
+      "24x7 Security",
+      "Gated Community",
+      "Children's Play Area",
+      "Wide Internal Roads",
+      "Clubhouse",
+      "Jogging Track"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "nearby": {
+      "schools": "2 km",
+      "hospitals": "1 km",
+      "highway": "3 km",
+      "railway": "8 km"
+    },
+    "mapEmbed": "",
+    "seo": {
+      "metaTitle": "MIDC Executive Office in Shirwal | SR024 | Shirwal Realty",
+      "metaDescription": "A professional office space designed for productivity, with flexible layouts suited to growing businesses in the Shirwal",
+      "ogImage": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1200&q=80"
+    }
+  }
+]

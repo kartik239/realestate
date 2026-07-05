@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AG001",
+    "name": "Rahul Deshmukh",
+    "role": "Founder & Principal Broker",
+    "phone": "917066644476",
+    "whatsapp": "917066644476",
+    "email": "rahul@shirwalrealty.com",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "AG002",
+    "name": "Sneha Patil",
+    "role": "Senior Property Consultant",
+    "phone": "917066644476",
+    "whatsapp": "917066644476",
+    "email": "sneha@shirwalrealty.com",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
+  }
+]
