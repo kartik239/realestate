@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Properties in Shirwal | Shirwal Realty</title>
+<meta name="description" content="Browse villas, farmhouses, plots, apartments, and commercial spaces in Shirwal, Maharashtra. Filter by type, budget, and location.">
+<link rel="canonical" href="https://www.shirwalrealty.com/properties.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-depth="0">
+
+<div class="loader"><div class="loader-mark">SR</div></div>
+
+<header class="navbar">
+  <div class="container">
+    <a href="index.html" class="brand"><span class="brand-mark">SR</span>Shirwal<span class="gold">Realty</span></a>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="properties.html" class="active">Properties</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div class="nav-cta">
+      <a href="contact.html" class="btn btn-outline btn-sm">Book Site Visit</a>
+      <a href="#" data-wa-generic class="btn btn-whatsapp btn-sm">WhatsApp</a>
+    </div>
+    <button class="nav-burger" aria-label="Open menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="mobile-menu">
+  <button class="close-menu" aria-label="Close menu">×</button>
+  <a href="index.html">Home</a>
+  <a href="properties.html">Properties</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+  <a href="#" data-wa-generic>WhatsApp Us</a>
+</div>
+
+<section class="page-hero">
+  <div class="container">
+    <div class="breadcrumb" style="color:rgba(255,255,255,.7);margin-bottom:18px;">
+      <a href="index.html" style="color:rgba(255,255,255,.7);">Home</a> / <span>Properties</span>
+    </div>
+    <span class="eyebrow" style="color:#E4C766;">Full Portfolio</span>
+    <h1>Every Property, One Place</h1>
+    <p>Search, filter, and compare villas, plots, farmhouses, apartments and commercial spaces across Shirwal.</p>
+  </div>
+</section>
+
+<div class="container">
+  <div class="filter-bar reveal in">
+    <div class="filter-group" style="grid-column:span 1;">
+      <label>Search</label>
+      <input type="text" id="filterSearch" placeholder="Search by name, location or ID">
+    </div>
+    <div class="filter-group">
+      <label>Property Type</label>
+      <select id="filterType">
+        <option value="">All Types</option>
+        <option>Luxury Villa</option>
+        <option>Farm House</option>
+        <option>Residential Plot</option>
+        <option>Commercial Shop</option>
+        <option>Apartment</option>
+        <option>Office Space</option>
+        <option>Bungalow</option>
+        <option>Agricultural Land</option>
+        <option>Independent House</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Location</label>
+      <select id="filterLocation"><option value="">All Locations</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Max Budget</label>
+      <select id="filterPrice">
+        <option value="">Any Budget</option>
+        <option value="2000000">Up to ₹20 L</option>
+        <option value="5000000">Up to ₹50 L</option>
+        <option value="10000000">Up to ₹1 Cr</option>
+        <option value="20000000">Up to ₹2 Cr</option>
+        <option value="30000000">Up to ₹3 Cr</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Bedrooms</label>
+      <select id="filterBedrooms">
+        <option value="">Any</option>
+        <option value="1">1+</option>
+        <option value="2">2+</option>
+        <option value="3">3+</option>
+        <option value="4">4+</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>&nbsp;</label>
+      <button id="clearFiltersBtn" class="btn btn-outline btn-sm">Clear</button>
+    </div>
+  </div>
+
+  <div class="filter-toolbar">
+    <div class="sub-filters">
+      <button class="chip active" data-purpose="All">All</button>
+      <button class="chip" data-purpose="Sale">For Sale</button>
+      <button class="chip" data-purpose="Rent">For Rent</button>
+    </div>
+    <div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
+      <span id="resultsCount" style="font-size:.88rem;color:var(--grey);"></span>
+      <select id="filterSort" style="border:1.5px solid var(--line);border-radius:var(--radius-sm);padding:9px 12px;font-size:.85rem;">
+        <option value="newest">Newest First</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+        <option value="area-desc">Area: Largest First</option>
+      </select>
+      <div class="view-toggle">
+        <button id="viewGrid" class="active" aria-label="Grid view">▦</button>
+        <button id="viewList" aria-label="List view">☰</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="property-grid" id="propertyGrid"></div>
+
+  <div class="text-center" style="margin-top:48px;">
+    <button id="loadMoreBtn" class="btn btn-primary">Load More Properties</button>
+  </div>
+</div>
+
+<section class="section-tight"></section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="index.html" class="brand" style="color:#fff;margin-bottom:16px;display:inline-flex;"><span class="brand-mark">SR</span>Shirwal<span class="gold">Realty</span></a>
+        <p style="max-width:280px;">Premium real estate consulting rooted in Shirwal, Maharashtra.</p>
+        <div class="social-row">
+          <a href="#" aria-label="Instagram">IG</a>
+          <a href="#" aria-label="Facebook">FB</a>
+          <a href="#" aria-label="YouTube">YT</a>
+        </div>
+      </div>
+      <div>
+        <h5>Quick Links</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="properties.html">Properties</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Legal</h5>
+        <ul>
+          <li><a href="privacy.html">Privacy Policy</a></li>
+          <li><a href="terms.html">Terms &amp; Conditions</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Contact</h5>
+        <ul>
+          <li data-phone-text>+91 70666 44476</li>
+          <li data-email-text>info@shirwalrealty.com</li>
+          <li data-address-text>Shop No. 4, Highway Plaza, Shirwal, Maharashtra 412801</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year></span> Shirwal Realty. All rights reserved.</span>
+      <span>Designed for a premium property experience.</span>
+    </div>
+  </div>
+</footer>
+
+<nav class="mobile-bottom-nav">
+  <ul>
+    <li><a data-phone-link href="tel:"><span>📞</span>Call</a></li>
+    <li><a href="#" data-wa-generic class="wa"><span>💬</span>WhatsApp</a></li>
+    <li><a href="properties.html"><span>🏠</span>Properties</a></li>
+    <li><a href="contact.html"><span>📅</span>Book Visit</a></li>
+  </ul>
+</nav>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/properties.js"></script>
+</body>
+</html>

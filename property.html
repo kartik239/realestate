@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Property Details | Shirwal Realty</title>
+<meta id="metaDescription" name="description" content="Property details in Shirwal, Maharashtra.">
+<meta id="ogImage" property="og:image" content="">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<style>
+  .gallery-hero{border-radius:var(--radius-lg);overflow:hidden;aspect-ratio:16/8;position:relative;cursor:zoom-in;}
+  .gallery-hero img{width:100%;height:100%;object-fit:cover;}
+  .thumb-strip{display:flex;gap:10px;margin-top:14px;overflow-x:auto;padding-bottom:4px;}
+  .stat-block{background:var(--paper-2);border-radius:var(--radius-md);padding:18px;text-align:center;}
+  .stat-block b{display:block;font-family:'Outfit';font-size:1.2rem;color:var(--navy);}
+  .stat-block span{font-size:.76rem;text-transform:uppercase;letter-spacing:.06em;color:var(--grey);}
+  .stats-row{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:28px 0;}
+  .gallery-full-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;}
+  .agent-card{display:flex;align-items:center;gap:14px;background:var(--paper-2);border-radius:var(--radius-md);padding:18px;}
+  .agent-card img{width:56px;height:56px;border-radius:50%;object-fit:cover;}
+  .sticky-panel{position:sticky;top:110px;}
+  @media(max-width:820px){.stats-row{grid-template-columns:repeat(3,1fr);}}
+</style>
+</head>
+<body data-depth="0">
+
+<div class="loader"><div class="loader-mark">SR</div></div>
+
+<header class="navbar">
+  <div class="container">
+    <a href="index.html" class="brand"><span class="brand-mark">SR</span>Shirwal<span class="gold">Realty</span></a>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="properties.html" class="active">Properties</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div class="nav-cta">
+      <a href="contact.html" class="btn btn-outline btn-sm">Book Site Visit</a>
+      <a href="#" data-wa-generic class="btn btn-whatsapp btn-sm">WhatsApp</a>
+    </div>
+    <button class="nav-burger" aria-label="Open menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="mobile-menu">
+  <button class="close-menu" aria-label="Close menu">×</button>
+  <a href="index.html">Home</a>
+  <a href="properties.html">Properties</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+  <a href="#" data-wa-generic>WhatsApp Us</a>
+</div>
+
+<div class="container" style="padding-top:110px;">
+  <div class="breadcrumb">
+    <a href="index.html">Home</a> / <a href="properties.html">Properties</a> / <span id="breadcrumbCurrent">Property</span>
+  </div>
+</div>
+
+<section class="section-tight">
+  <div class="container">
+    <div class="gallery-hero">
+      <img id="heroImage" src="" alt="Property hero image">
+    </div>
+    <div class="thumb-strip" id="thumbStrip"></div>
+  </div>
+</section>
+
+<section class="section-tight">
+  <div class="container grid-2" style="align-items:start;grid-template-columns:1.6fr 1fr;">
+    <div>
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;">
+        <div>
+          <h1 id="propTitle" style="margin-bottom:8px;">Property Title</h1>
+          <div id="propLocation" class="p-loc" style="font-size:1rem;">📍 Location</div>
+        </div>
+        <div style="text-align:right;">
+          <div id="propPrice" style="font-family:'Outfit';font-weight:700;font-size:1.8rem;color:var(--navy);">₹0</div>
+          <span class="badge gold" id="propStatus">Status</span>
+        </div>
+      </div>
+
+      <div class="stats-row" id="bedBathRow">
+        <div class="stat-block"><b id="propType">Type</b><span>Type</span></div>
+        <div class="stat-block"><b id="propArea">0</b><span>Area</span></div>
+        <div class="stat-block stat-block"><b id="propBedrooms">0</b><span>Bedrooms</span></div>
+        <div class="stat-block"><b id="propBathrooms">0</b><span>Bathrooms</span></div>
+        <div class="stat-block"><b id="propParking">0</b><span>Parking</span></div>
+      </div>
+
+      <div class="divider-line"></div>
+
+      <h3>Overview</h3>
+      <p id="propDescription">Description loading…</p>
+      <p style="font-size:.85rem;color:var(--grey);">Property ID: <strong id="propId">—</strong> &nbsp;|&nbsp; Purpose: <strong id="propPurpose">—</strong></p>
+
+      <div class="divider-line"></div>
+
+      <h3>Amenities</h3>
+      <div class="tag-list" id="amenityList"></div>
+
+      <div class="divider-line"></div>
+
+      <h3>Floor Plan</h3>
+      <div style="aspect-ratio:16/7;background:var(--paper-2);border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;color:var(--grey);">
+        Floor plan available on request
+      </div>
+
+      <div class="divider-line"></div>
+
+      <h3>Location &amp; Nearby</h3>
+      <div style="aspect-ratio:16/7;background:var(--paper-2);border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;color:var(--grey);margin-bottom:20px;">
+        Google Map placeholder
+      </div>
+      <div class="stats-row" style="grid-template-columns:repeat(4,1fr);">
+        <div class="stat-block"><b id="nearSchools">—</b><span>Schools</span></div>
+        <div class="stat-block"><b id="nearHospitals">—</b><span>Hospitals</span></div>
+        <div class="stat-block"><b id="nearHighway">—</b><span>Highway</span></div>
+        <div class="stat-block"><b id="nearRailway">—</b><span>Railway</span></div>
+      </div>
+
+      <div class="divider-line"></div>
+
+      <h3>Gallery</h3>
+      <div class="gallery-full-grid" id="galleryGrid"></div>
+    </div>
+
+    <!-- Sidebar: inquiry form -->
+    <aside class="sticky-panel">
+      <div class="form-card">
+        <h3 style="margin-bottom:4px;">Enquire About This Property</h3>
+        <p style="font-size:.85rem;">We'll open WhatsApp with your details pre-filled — no signup needed.</p>
+        <form id="inquiryForm">
+          <input type="hidden" name="propertyName" id="hf_propertyName">
+          <input type="hidden" name="propertyId" id="hf_propertyId">
+          <input type="hidden" name="propertyPrice" id="hf_propertyPrice">
+          <input type="hidden" name="propertyType" id="hf_propertyType">
+          <input type="hidden" name="propertyLocation" id="hf_propertyLocation">
+
+          <div class="form-field" style="margin-bottom:14px;">
+            <label>Full Name</label>
+            <input type="text" name="name" required placeholder="Your name">
+          </div>
+          <div class="form-field" style="margin-bottom:14px;">
+            <label>Phone Number</label>
+            <input type="tel" name="phone" required placeholder="10-digit mobile number">
+          </div>
+          <div class="form-field" style="margin-bottom:14px;">
+            <label>Budget</label>
+            <input type="text" name="budget" placeholder="e.g. ₹50 L – 70 L">
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px;">
+            <div class="form-field">
+              <label>Visit Date</label>
+              <input type="date" name="visitDate">
+            </div>
+            <div class="form-field">
+              <label>Visit Time</label>
+              <input type="time" name="visitTime">
+            </div>
+          </div>
+          <div class="form-field" style="margin-bottom:18px;">
+            <label>Message</label>
+            <textarea name="message" rows="3" placeholder="Any specific questions?"></textarea>
+          </div>
+          <button type="submit" class="btn btn-whatsapp btn-block">Enquire on WhatsApp</button>
+        </form>
+        <button data-wa-enquire class="btn btn-outline btn-block" style="margin-top:12px;">Quick WhatsApp Enquiry</button>
+        <a href="tel:+917066644476" class="btn btn-primary btn-block" style="margin-top:12px;">Call Now</a>
+
+        <div class="divider-line"></div>
+        <div class="agent-card">
+          <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80" alt="Agent">
+          <div>
+            <strong>Rahul Deshmukh</strong><br>
+            <span style="font-size:.8rem;color:var(--grey);">Founder &amp; Principal Broker</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section" style="background:var(--paper-2);">
+  <div class="container">
+    <div class="section-head reveal">
+      <div><span class="eyebrow">You May Also Like</span><h2 class="section-title">Related Properties</h2></div>
+    </div>
+    <div class="property-grid" id="relatedGrid"></div>
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox">
+  <button class="lightbox-close" aria-label="Close">×</button>
+  <img src="" alt="Property image large view">
+  <div class="lightbox-controls">
+    <button class="lb-prev" aria-label="Previous">‹</button>
+    <span class="lightbox-counter">1 / 4</span>
+    <button class="lb-next" aria-label="Next">›</button>
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="index.html" class="brand" style="color:#fff;margin-bottom:16px;display:inline-flex;"><span class="brand-mark">SR</span>Shirwal<span class="gold">Realty</span></a>
+        <p style="max-width:280px;">Premium real estate consulting rooted in Shirwal, Maharashtra.</p>
+      </div>
+      <div>
+        <h5>Quick Links</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="properties.html">Properties</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Legal</h5>
+        <ul>
+          <li><a href="privacy.html">Privacy Policy</a></li>
+          <li><a href="terms.html">Terms &amp; Conditions</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Contact</h5>
+        <ul>
+          <li data-phone-text>+91 70666 44476</li>
+          <li data-email-text>info@shirwalrealty.com</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year></span> Shirwal Realty. All rights reserved.</span>
+    </div>
+  </div>
+</footer>
+
+<nav class="mobile-bottom-nav">
+  <ul>
+    <li><a data-phone-link href="tel:"><span>📞</span>Call</a></li>
+    <li><a href="#" data-wa-generic class="wa"><span>💬</span>WhatsApp</a></li>
+    <li><a href="properties.html"><span>🏠</span>Properties</a></li>
+    <li><a href="contact.html"><span>📅</span>Book Visit</a></li>
+  </ul>
+</nav>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/properties.js"></script>
+<script src="assets/js/property-detail.js"></script>
+</body>
+</html>
